@@ -1,3 +1,20 @@
-.teste{
-    color: blueviolet;
+.body {
+    background-color: rgb(26, 24, 24) !important;
+}
+h2 {
+    color: #4266f5;
+}
+h1 {
+    color: #4266f5;
+}
+.letra {
+    color: #23c01d;
+}
+.cabecalho {
+    background-color: rgb(27, 27, 29);
+}
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
 }
